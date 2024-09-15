@@ -1,6 +1,6 @@
 const oa_name = "科技阿凉";
 const oa_description = "分享设计与科技生活";
-const web_beian = "CoolSpace";
+const web_beian = "阿凉の杂货铺";
 
 function replaceText(elementId, newText) {
   var element = document.getElementById(elementId);
